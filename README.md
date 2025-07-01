@@ -37,7 +37,7 @@ This repository showcases a collection of certifications I have earned, demonstr
 
 
 
-📎 [View Completion Certificate (PDF)](./Octanet.pdf)
+📎 [View Offer letter Certificate (PDF)](./Octanet.pdf)
 
 ---
 
