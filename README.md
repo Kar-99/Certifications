@@ -48,6 +48,6 @@ Each certificate is stored as a PDF in the repo for transparency and validation.
 
 ## 🔗 View My Full Profile
 
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
-- 💻 GitHub: [github.com/yourusername](https://github.com/yourusername)
+- 💼 LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/kartik-pandey-11429a25a)
+- 💻 GitHub: [github.com/yourusername](https://github.com/Kartikpandey139)
 
