@@ -1,29 +1,47 @@
-# Certifications
-# 🏆 ICCICS 2023 - Certificate of Participation
+# 📄 Certifications Portfolio
 
-This repository contains my certificate of participation in the **International Conference on Computational Intelligence and Cyber Security (ICCICS - 2023)**, held from **7th to 9th November 2023** in Lucknow, India.
-
-## 🎯 About the Conference
-
-**ICCICS 2023** was a three-day international conference focusing on advanced research in:
-- Computational Intelligence
-- Cyber Security
-- Artificial Intelligence and Machine Learning
-- Network Security and Emerging Technologies
-
-The event brought together researchers, academicians, and industry experts to share innovative ideas and collaborate on the future of intelligent secure systems.
-
-## 📄 Certificate
-
-
-## 📌 Why This Matters
-
-Attending ICCICS 2023 helped me:
-- Gain exposure to cutting-edge research in cyber security and AI
-- Learn from keynote talks by researchers and industry leaders
-- Understand real-world applications of intelligent systems and threat mitigation
+This repository showcases a collection of certifications I have earned, demonstrating my academic involvement and technical learning in areas such as Python development, artificial intelligence, and cybersecurity.
 
 ---
 
+ Certifications Included
 
+ 1.  Python Programming Internship – InternPE (June 2025)
+-    Duration**: 4 Weeks (Remote)
+-    Focus**: Python fundamentals, object-oriented programming, scripting, Git, basic data analysis
+-    Skills Gained**: Python, OOP, modular code, file handling, exception management, version control
+
+📎 [View Certificate (PDF)](./InternPE_Certificate.pdf)
+
+---
+
+### 2. 🧠 International Conference on Computational Intelligence and Cyber Security (ICCICS - 2023)
+- **Date**: November 7–9, 2023
+- **Organized by**: University of Lucknow
+- **Highlights**: Sessions on cybersecurity trends, AI-driven risk mitigation, machine learning, and ethical hacking
+
+📎 [View Certificate (PDF)](./ICCICS.pdf)
+
+---
+
+### 3. 📊 Exploratory Data Analysis Project – Self-Paced
+- **Dataset Used**: Titanic, Iris, and Mercedes-Benz from Kaggle
+- **Tools**: Pandas, Seaborn, Matplotlib, Plotly
+- **Focus**: Data preprocessing, visualization, trend analysis
+
+📎 [View Completion Certificate (PDF)](./EDA_Project_Certificate.pdf)
+
+---
+
+## 📌 How to Use
+
+This repository is referenced in my resume to provide verified proof of learning and participation in technical programs.  
+Each certificate is stored as a PDF in the repo for transparency and validation.
+
+---
+
+## 🔗 View My Full Profile
+
+- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)
+- 💻 GitHub: [github.com/yourusername](https://github.com/yourusername)
 
