@@ -11,7 +11,7 @@ This repository showcases a collection of certifications I have earned, demonstr
 -    Focus**: Python fundamentals, object-oriented programming, scripting, Git, basic data analysis
 -    Skills Gained**: Python, OOP, modular code, file handling, exception management, version control
 
-📎 [View Certificate (PDF)](./InternPE_Certificate.pdf)
+📎 [View Certificate (PDF)](./InternPE.pdf)
 
 ---
 
@@ -24,18 +24,24 @@ This repository showcases a collection of certifications I have earned, demonstr
 
 ---
 
-### 3. 📊 Exploratory Data Analysis Project – Self-Paced
-- **Dataset Used**: Titanic, Iris, and Mercedes-Benz from Kaggle
-- **Tools**: Pandas, Seaborn, Matplotlib, Plotly
-- **Focus**: Data preprocessing, visualization, trend analysis
+### 3. Web Development Internship – OctaNet Services (June 2025)
+--- Duration: 1 Month (Remote)
 
-📎 [View Completion Certificate (PDF)](./EDA_Project_Certificate.pdf)
+--- Domain: Web Development
+
+--- Key Areas: HTML, CSS, JavaScript, responsive UI, client-server integration
+
+
+
+📎 View Certificate (PDF)
+
+
+
+📎 [View Completion Certificate (PDF)](./Octanet.pdf)
 
 ---
 
-## 📌 How to Use
 
-This repository is referenced in my resume to provide verified proof of learning and participation in technical programs.  
 Each certificate is stored as a PDF in the repo for transparency and validation.
 
 ---
